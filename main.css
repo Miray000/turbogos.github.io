@@ -133,14 +133,13 @@ body {
 
 .page-block{
   position: relative;
-width: 1280px;
-height: 500px;
-background: #72BBED;
-top: 177px;
-left: 30px;
+  width: 1280px;
+  height: 500px;
+  background: #72BBED;
+  top: 177px;
+  left: 30px;
+  border-radius: 20px;
 
-border-radius: 20px;
-margin-top: 30px;
 
 }
 
